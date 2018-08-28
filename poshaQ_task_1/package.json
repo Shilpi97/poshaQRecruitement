@@ -1,0 +1,19 @@
+{
+  "name": "task1",
+  "version": "1.0.0",
+  "description": "Implement lodash libery",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "async": "*",
+    "body-parser": "*",
+    "cors": "*",
+    "lodash": "^4.17.10",
+    "mongodb": "^3.1.4",
+    "mongoose": "*"
+  },
+  "author": "Rutvi Shah",
+  "license": "ISC"
+}

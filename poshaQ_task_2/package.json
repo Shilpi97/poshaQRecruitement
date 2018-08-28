@@ -1,0 +1,18 @@
+{
+  "name": "poshaq-task-2",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "*",
+    "debug": "*",
+    "express": "*",
+    "http-errors": "*",
+    "jade": "*",
+    "mongoose": "*",
+    "morgan": "*",
+    "nodemon": "*"
+  }
+}
